@@ -2,13 +2,13 @@
   "users": [
     {
       "id": 1,
-      "username": "alaa@123"
-      "password": "hello"
-    }
+      "username": "alaa@123",
+      "password": "alaa123"
+    },
  {
-  "id": 1,
-      "username": "alaa@1234"
-      "password": "hello1"
+  "id": 2,
+      "username": "alaa@1234",
+      "password": "1234"
   }
 
 
